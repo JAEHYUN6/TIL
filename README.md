@@ -8,7 +8,7 @@ Today I Learn
 
 * [sklearn](https://github.com/JAEHYUNYUK/Machine-Learning/tree/main/sklearn#sickit-learning)
 
-* [자연어 처리](https://github.com/JAEHYUNYUK/Machine-Learning#자연어-처리)
+* [자연어 처리](https://github.com/JAEHYUNYUK/Deep-learning#자연어-처리)
 ---
 # Statistics 통계
 
