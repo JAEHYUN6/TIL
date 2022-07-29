@@ -6,7 +6,7 @@ Today I Learn
 
 * [Pandas](https://github.com/JAEHYUNYUK/python/blob/main/Pandas/Pandas.md)
 
-* [sklearn](https://github.com/JAEHYUNYUK/Machine-Learning/blob/main/sklearn/sklearn.md)
+* [sklearn](https://github.com/JAEHYUNYUK/Machine-Learning/tree/main/sklearn#sickit-learning)
 
 * [자연어 처리](https://github.com/JAEHYUNYUK/Machine-Learning#자연어-처리)
 ---
