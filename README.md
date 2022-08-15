@@ -8,7 +8,7 @@ Today I Learn
 
 * [Pandas](https://github.com/JAEHYUNYUK/Machine-Learning/blob/main/Pandas/README.md#pandas)
 
-* [sklearn](https://github.com/JAEHYUNYUK/Machine-Learning/tree/main/sklearn#sickit-learning)
+* [sklearn](https://github.com/JAEHYUN6/ML-DL/tree/main/Machine-Learning/Sklearn#sickit-learning)
 
 ---
 
