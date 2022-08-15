@@ -12,7 +12,7 @@ Today I Learn
 
 ---
 
-# [Statistics 통계](https://github.com/JAEHYUN6/-Statistics-.git)
+# [이론](https://github.com/JAEHYUN6/ML-DL.git)
 
 ---
 
