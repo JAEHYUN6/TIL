@@ -16,6 +16,6 @@ Today I Learn
 
 ---
 
-# ]Deep Learning 딥러닝](https://github.com/JAEHYUN6/ML-DL/tree/main/Deep-Learning#deep-learning)
+# [Deep Learning 딥러닝](https://github.com/JAEHYUN6/ML-DL/tree/main/Deep-Learning#deep-learning)
 
 * [자연어 처리](https://github.com/JAEHYUNYUK/Deep-learning#자연어-처리)
