@@ -18,4 +18,4 @@ Today I Learn
 
 ---
 
-# [이론](https://github.com/JAEHYUN6/ML-DL.git)
+- [크롤링 강의 - 나도코딩](https://www.youtube.com/watch?v=ZDh1C7qw0Rs&t=361s)
