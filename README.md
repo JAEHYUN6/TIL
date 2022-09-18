@@ -8,3 +8,5 @@ Today I Learn
 ---
 
 ### [Deep Learning](https://github.com/JAEHYUN6/ML-DL/tree/main/Deep-Learning#deep-learning)
+
+  CS231n
